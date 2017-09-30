@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">eshna-CounterBook</string>
+    <string name="title_activity_counter">ActivityCounter</string>
+    <string name="plus_button">+</string>
+    <string name="counter_val_text">0</string>
+    <string name="minus_button">-</string>
+    <string name="reset">Reset</string>
+    <string name="name">Name</string>
+    <string name="date_created">Date Created</string>
+    <string name="initial_value">Initial Value</string>
+    <string name="current_value">Current Value</string>
+    <string name="comment">Comment</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_view_counter_details">ViewCounterDetails</string>
+    <string name="number_of_counters">number_of_counters</string>
+    <string name="add_counter">add counter</string>
+    <string name="num_of_counters">number of counters</string>
+    <string name="date_created_changed">Date Created/Changed</string>
+    <string name="enter_name_of_counter">Enter name of counter</string>
+    <string name="please_enter_a_number">Please enter a number</string>
+    <string name="_counterText">0</string>
+    <string name="num_counter">Number of Counters</string>
+    <string name="delete_counter">Delete Counter</string>
+    <string name="edit_counter">Edit Counter</string>
+</resources>
