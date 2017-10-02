@@ -1,58 +1,58 @@
 [
     {
-        "merged": "/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
-        "source": "/cshome/eshna/.android/build-cache/a156b414d3f6d2b1166a11b918142e3831bce70e/output/res/anim/design_snackbar_in.xml"
+        "merged": "/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/afs/ualberta.ca/home/e/s/eshna/.android/build-cache/a0e9977c4e5b3df4de73b8a49a5d5cd5f6124368/output/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
-        "source": "/cshome/eshna/.android/build-cache/a156b414d3f6d2b1166a11b918142e3831bce70e/output/res/anim/design_bottom_sheet_slide_out.xml"
+        "merged": "/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/afs/ualberta.ca/home/e/s/eshna/.android/build-cache/a0e9977c4e5b3df4de73b8a49a5d5cd5f6124368/output/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/cshome/eshna/.android/build-cache/7f0ea9d4e50f7938a1738130eb1914e707ea1f6f/output/res/anim/abc_slide_in_bottom.xml"
+        "merged": "/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/afs/ualberta.ca/home/e/s/eshna/.android/build-cache/a0e9977c4e5b3df4de73b8a49a5d5cd5f6124368/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/cshome/eshna/.android/build-cache/7f0ea9d4e50f7938a1738130eb1914e707ea1f6f/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/afs/ualberta.ca/home/e/s/eshna/.android/build-cache/a0e9977c4e5b3df4de73b8a49a5d5cd5f6124368/output/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/cshome/eshna/.android/build-cache/7f0ea9d4e50f7938a1738130eb1914e707ea1f6f/output/res/anim/abc_fade_in.xml"
+        "merged": "/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/afs/ualberta.ca/home/e/s/eshna/.android/build-cache/bb8882ff24ace34ddcc4612eeba1fabe2902efd3/output/res/anim/design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/cshome/eshna/.android/build-cache/7f0ea9d4e50f7938a1738130eb1914e707ea1f6f/output/res/anim/abc_slide_out_bottom.xml"
+        "merged": "/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/afs/ualberta.ca/home/e/s/eshna/.android/build-cache/a0e9977c4e5b3df4de73b8a49a5d5cd5f6124368/output/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
-        "source": "/cshome/eshna/.android/build-cache/a156b414d3f6d2b1166a11b918142e3831bce70e/output/res/anim/design_snackbar_out.xml"
+        "merged": "/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/afs/ualberta.ca/home/e/s/eshna/.android/build-cache/bb8882ff24ace34ddcc4612eeba1fabe2902efd3/output/res/anim/design_snackbar_in.xml"
     },
     {
-        "merged": "/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/cshome/eshna/.android/build-cache/7f0ea9d4e50f7938a1738130eb1914e707ea1f6f/output/res/anim/abc_slide_out_top.xml"
+        "merged": "/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/afs/ualberta.ca/home/e/s/eshna/.android/build-cache/a0e9977c4e5b3df4de73b8a49a5d5cd5f6124368/output/res/anim/abc_fade_out.xml"
     },
     {
-        "merged": "/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/cshome/eshna/.android/build-cache/7f0ea9d4e50f7938a1738130eb1914e707ea1f6f/output/res/anim/abc_popup_exit.xml"
+        "merged": "/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/afs/ualberta.ca/home/e/s/eshna/.android/build-cache/a0e9977c4e5b3df4de73b8a49a5d5cd5f6124368/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
-        "source": "/cshome/eshna/.android/build-cache/a156b414d3f6d2b1166a11b918142e3831bce70e/output/res/anim/design_bottom_sheet_slide_in.xml"
+        "merged": "/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/afs/ualberta.ca/home/e/s/eshna/.android/build-cache/bb8882ff24ace34ddcc4612eeba1fabe2902efd3/output/res/anim/design_snackbar_out.xml"
     },
     {
-        "merged": "/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/cshome/eshna/.android/build-cache/7f0ea9d4e50f7938a1738130eb1914e707ea1f6f/output/res/anim/abc_slide_in_top.xml"
+        "merged": "/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/afs/ualberta.ca/home/e/s/eshna/.android/build-cache/a0e9977c4e5b3df4de73b8a49a5d5cd5f6124368/output/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/cshome/eshna/.android/build-cache/7f0ea9d4e50f7938a1738130eb1914e707ea1f6f/output/res/anim/abc_popup_enter.xml"
+        "merged": "/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/afs/ualberta.ca/home/e/s/eshna/.android/build-cache/bb8882ff24ace34ddcc4612eeba1fabe2902efd3/output/res/anim/design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/cshome/eshna/.android/build-cache/7f0ea9d4e50f7938a1738130eb1914e707ea1f6f/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/afs/ualberta.ca/home/e/s/eshna/.android/build-cache/a0e9977c4e5b3df4de73b8a49a5d5cd5f6124368/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/cshome/eshna/.android/build-cache/7f0ea9d4e50f7938a1738130eb1914e707ea1f6f/output/res/anim/abc_fade_out.xml"
+        "merged": "/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/afs/ualberta.ca/home/e/s/eshna/.android/build-cache/a0e9977c4e5b3df4de73b8a49a5d5cd5f6124368/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+        "outputFile": "/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 120
                 },
                 "from": {
-                    "file": "/cshome/eshna/.android/build-cache/7f0ea9d4e50f7938a1738130eb1914e707ea1f6f/output/res/values-land/values-land.xml",
+                    "file": "/afs/ualberta.ca/home/e/s/eshna/.android/build-cache/a0e9977c4e5b3df4de73b8a49a5d5cd5f6124368/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "/cshome/eshna/.android/build-cache/7f0ea9d4e50f7938a1738130eb1914e707ea1f6f/output/res/values-land/values-land.xml",
+                    "file": "/afs/ualberta.ca/home/e/s/eshna/.android/build-cache/a0e9977c4e5b3df4de73b8a49a5d5cd5f6124368/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 255
                 },
                 "from": {
-                    "file": "/cshome/eshna/.android/build-cache/7f0ea9d4e50f7938a1738130eb1914e707ea1f6f/output/res/values-land/values-land.xml",
+                    "file": "/afs/ualberta.ca/home/e/s/eshna/.android/build-cache/a0e9977c4e5b3df4de73b8a49a5d5cd5f6124368/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 323
                 },
                 "from": {
-                    "file": "/cshome/eshna/.android/build-cache/7f0ea9d4e50f7938a1738130eb1914e707ea1f6f/output/res/values-land/values-land.xml",
+                    "file": "/afs/ualberta.ca/home/e/s/eshna/.android/build-cache/a0e9977c4e5b3df4de73b8a49a5d5cd5f6124368/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -88,7 +88,7 @@
                     "endOffset": 505
                 },
                 "from": {
-                    "file": "/cshome/eshna/.android/build-cache/a156b414d3f6d2b1166a11b918142e3831bce70e/output/res/values-land/values-land.xml",
+                    "file": "/afs/ualberta.ca/home/e/s/eshna/.android/build-cache/bb8882ff24ace34ddcc4612eeba1fabe2902efd3/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

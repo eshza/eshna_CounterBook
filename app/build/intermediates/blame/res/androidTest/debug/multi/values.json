@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "outputFile": "/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/cshome/eshna/.android/build-cache/ef514a8a361fad184291f761f1d4094d992ec2d6/output/res/values/values.xml",
+                    "file": "/afs/ualberta.ca/home/e/s/eshna/.android/build-cache/9ad12cb653d9eca50017e6d9bf9239058a7ee9e9/output/res/values/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4d1d65449c3a0ee942949180efdd41c0721f410e">
+        <dex dex="/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3c766c88dfb24df765cfe4b14dd7c58f676239e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f75bec9de9b14b56307b7d34da4b63fbc995c314/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="4ef88e66eea5592deee11c43cc7dc555bd88a5df">
-        <dex dex="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d182ca83d2cbf98d31656f11d207f6aef2843965/classes.dex" />
+        <dex dex="/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4d6373657aab2c8ddf402a5e5e0fcf2c203b978e/classes.dex" />
     </item>
 
 </items>

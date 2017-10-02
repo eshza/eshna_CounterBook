@@ -1,7 +1,7 @@
-#Mon Oct 02 13:32:10 MDT 2017
-base.0=/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d182ca83d2cbf98d31656f11d207f6aef2843965
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f75bec9de9b14b56307b7d34da4b63fbc995c314/classes.dex
-base.1=/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f75bec9de9b14b56307b7d34da4b63fbc995c314
-file.0=/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d182ca83d2cbf98d31656f11d207f6aef2843965/classes.dex
+#Mon Oct 02 15:18:18 MDT 2017
+base.0=/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4d6373657aab2c8ddf402a5e5e0fcf2c203b978e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3c766c88dfb24df765cfe4b14dd7c58f676239e6/classes.dex
+base.1=/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3c766c88dfb24df765cfe4b14dd7c58f676239e6
+file.0=/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4d6373657aab2c8ddf402a5e5e0fcf2c203b978e/classes.dex

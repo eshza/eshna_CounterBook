@@ -1,111 +1,111 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:2:1-29:12
+ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:2:1-29:12
 	package
-		ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:3:5-50
-		INJECTED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml
-		INJECTED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml
+		ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml
+		INJECTED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml
-		INJECTED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml
+		INJECTED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml
+		INJECTED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml
-		INJECTED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml
+		INJECTED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml
+		INJECTED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml
 application
-ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:5:5-27:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /cshome/eshna/.android/build-cache/bec5096096055fbb51658b499c59f52111ffd928/output/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:design:26.0.0-alpha1] /cshome/eshna/.android/build-cache/a156b414d3f6d2b1166a11b918142e3831bce70e/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /cshome/eshna/.android/build-cache/7f0ea9d4e50f7938a1738130eb1914e707ea1f6f/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /cshome/eshna/.android/build-cache/c93cbdca59e01c7ced52313960040c473601dfe8/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /cshome/eshna/.android/build-cache/e6509704eaee7e66ad923aed2dd1aba50df80c89/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:26.0.0-alpha1] /cshome/eshna/.android/build-cache/2218b8a0f32f6fb1eba033da02fdd5ee89cb0fa1/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /cshome/eshna/.android/build-cache/608dcc391febab658e18de034bb4f9dcea9e2dee/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /cshome/eshna/.android/build-cache/8c3b0ebf74196be2e95c2b4bb65f037864ab12cd/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /cshome/eshna/.android/build-cache/658f92102a7182815e971509c064f2dd99a698c4/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /cshome/eshna/.android/build-cache/985c1501693a50bb3faaca7c322101424a20e250/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /cshome/eshna/.android/build-cache/f049c47a824ac474c39f3c66ad37775ede33e45c/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /cshome/eshna/.android/build-cache/1193ef753d884700a7ec83ec66cf3b25c787ee04/output/AndroidManifest.xml:29:5-20
+ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/c7f94cc230fcaae238e7881957f5a58ce238c4f1/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/bb8882ff24ace34ddcc4612eeba1fabe2902efd3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/a0e9977c4e5b3df4de73b8a49a5d5cd5f6124368/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/67d74607b73c62ccf9632fa711fd83d98e7cadd2/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/ee0715b377f863ddcb9e534de003dd82edf97b33/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/9a2142d63fa4f7a2794676c5130bf3cf7b120464/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/51a672944f53e650f80027bc03da1e87b8d5a0b2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/cf2e7c3a44cc6076f7d1ca03cb6c0692be848979/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/5f685c6da469ed293542f0a1e8ba15d849b0b4cf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/c6c22ce61d0586f424e223e77e8b004340c1e1a7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/3133d7803b572ce0bc0bce9bb3d4b22d8a882844/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/6c75d6a11fbdedace1ffb7d4f21dbb5705050f74/output/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:10:9-35
 	android:roundIcon
-		ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:9:9-54
 	android:allowBackup
-		ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.example.eshna.eshna_CounterBook.MainActivity
-ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:12:19-82
+		ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:12:19-82
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:16:27-74
 activity#com.example.eshna.eshna_CounterBook.ActivityCounter
-ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:19:9-22:59
+ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:19:9-22:59
 	android:label
-		ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:21:13-59
+		ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:21:13-59
 	android:theme
-		ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:22:13-56
+		ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:22:13-56
 	android:name
-		ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:20:13-79
+		ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:20:13-79
 activity#com.example.eshna.eshna_CounterBook.ViewCounterDetails
-ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:23:9-26:68
+ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:23:9-26:68
 	android:label
-		ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:25:13-72
+		ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:25:13-72
 	android:theme
-		ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:26:13-56
+		ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:26:13-56
 	android:name
-		ADDED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml:24:13-82
+		ADDED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml:24:13-82
 uses-sdk
-INJECTED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /cshome/eshna/.android/build-cache/bec5096096055fbb51658b499c59f52111ffd928/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:design:26.0.0-alpha1] /cshome/eshna/.android/build-cache/a156b414d3f6d2b1166a11b918142e3831bce70e/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /cshome/eshna/.android/build-cache/7f0ea9d4e50f7938a1738130eb1914e707ea1f6f/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /cshome/eshna/.android/build-cache/c93cbdca59e01c7ced52313960040c473601dfe8/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /cshome/eshna/.android/build-cache/e6509704eaee7e66ad923aed2dd1aba50df80c89/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /cshome/eshna/.android/build-cache/2d1929796f96c9f47323518d898919303a222062/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.0.0-alpha1] /cshome/eshna/.android/build-cache/2218b8a0f32f6fb1eba033da02fdd5ee89cb0fa1/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /cshome/eshna/.android/build-cache/608dcc391febab658e18de034bb4f9dcea9e2dee/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /cshome/eshna/.android/build-cache/8c3b0ebf74196be2e95c2b4bb65f037864ab12cd/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /cshome/eshna/.android/build-cache/658f92102a7182815e971509c064f2dd99a698c4/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /cshome/eshna/.android/build-cache/985c1501693a50bb3faaca7c322101424a20e250/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /cshome/eshna/.android/build-cache/f049c47a824ac474c39f3c66ad37775ede33e45c/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /cshome/eshna/.android/build-cache/1193ef753d884700a7ec83ec66cf3b25c787ee04/output/AndroidManifest.xml:21:5-23:58
+INJECTED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/c7f94cc230fcaae238e7881957f5a58ce238c4f1/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/bb8882ff24ace34ddcc4612eeba1fabe2902efd3/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/a0e9977c4e5b3df4de73b8a49a5d5cd5f6124368/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/67d74607b73c62ccf9632fa711fd83d98e7cadd2/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/ee0715b377f863ddcb9e534de003dd82edf97b33/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/dea2c732ef40d9669a719abc12772ba057494653/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/9a2142d63fa4f7a2794676c5130bf3cf7b120464/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/51a672944f53e650f80027bc03da1e87b8d5a0b2/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/cf2e7c3a44cc6076f7d1ca03cb6c0692be848979/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/5f685c6da469ed293542f0a1e8ba15d849b0b4cf/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/c6c22ce61d0586f424e223e77e8b004340c1e1a7/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/3133d7803b572ce0bc0bce9bb3d4b22d8a882844/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/6c75d6a11fbdedace1ffb7d4f21dbb5705050f74/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.0.0-alpha1] /cshome/eshna/.android/build-cache/a156b414d3f6d2b1166a11b918142e3831bce70e/output/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/bb8882ff24ace34ddcc4612eeba1fabe2902efd3/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml
-		INJECTED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml
+		INJECTED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml
+		INJECTED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml
-		INJECTED from /cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/AndroidManifest.xml
+		INJECTED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml
+		INJECTED from /afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.0.0-alpha1] /cshome/eshna/.android/build-cache/a156b414d3f6d2b1166a11b918142e3831bce70e/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /cshome/eshna/.android/build-cache/7f0ea9d4e50f7938a1738130eb1914e707ea1f6f/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /cshome/eshna/.android/build-cache/c93cbdca59e01c7ced52313960040c473601dfe8/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /cshome/eshna/.android/build-cache/e6509704eaee7e66ad923aed2dd1aba50df80c89/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /cshome/eshna/.android/build-cache/2d1929796f96c9f47323518d898919303a222062/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:transition:26.0.0-alpha1] /cshome/eshna/.android/build-cache/2218b8a0f32f6fb1eba033da02fdd5ee89cb0fa1/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /cshome/eshna/.android/build-cache/608dcc391febab658e18de034bb4f9dcea9e2dee/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /cshome/eshna/.android/build-cache/8c3b0ebf74196be2e95c2b4bb65f037864ab12cd/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /cshome/eshna/.android/build-cache/658f92102a7182815e971509c064f2dd99a698c4/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /cshome/eshna/.android/build-cache/985c1501693a50bb3faaca7c322101424a20e250/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /cshome/eshna/.android/build-cache/f049c47a824ac474c39f3c66ad37775ede33e45c/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /cshome/eshna/.android/build-cache/1193ef753d884700a7ec83ec66cf3b25c787ee04/output/AndroidManifest.xml:25:5-27:41
+ADDED from [com.android.support:design:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/bb8882ff24ace34ddcc4612eeba1fabe2902efd3/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/a0e9977c4e5b3df4de73b8a49a5d5cd5f6124368/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/67d74607b73c62ccf9632fa711fd83d98e7cadd2/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/ee0715b377f863ddcb9e534de003dd82edf97b33/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/dea2c732ef40d9669a719abc12772ba057494653/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/9a2142d63fa4f7a2794676c5130bf3cf7b120464/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/51a672944f53e650f80027bc03da1e87b8d5a0b2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/cf2e7c3a44cc6076f7d1ca03cb6c0692be848979/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/5f685c6da469ed293542f0a1e8ba15d849b0b4cf/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/c6c22ce61d0586f424e223e77e8b004340c1e1a7/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/3133d7803b572ce0bc0bce9bb3d4b22d8a882844/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/6c75d6a11fbdedace1ffb7d4f21dbb5705050f74/output/AndroidManifest.xml:25:5-27:41
 	android:value
-		ADDED from [com.android.support:design:26.0.0-alpha1] /cshome/eshna/.android/build-cache/a156b414d3f6d2b1166a11b918142e3831bce70e/output/AndroidManifest.xml:27:9-38
+		ADDED from [com.android.support:design:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/bb8882ff24ace34ddcc4612eeba1fabe2902efd3/output/AndroidManifest.xml:27:9-38
 	android:name
-		ADDED from [com.android.support:design:26.0.0-alpha1] /cshome/eshna/.android/build-cache/a156b414d3f6d2b1166a11b918142e3831bce70e/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:26.0.0-alpha1] /afs/ualberta.ca/home/e/s/eshna/.android/build-cache/bb8882ff24ace34ddcc4612eeba1fabe2902efd3/output/AndroidManifest.xml:26:9-47

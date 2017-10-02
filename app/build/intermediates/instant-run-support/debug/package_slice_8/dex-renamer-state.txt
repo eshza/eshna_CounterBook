@@ -1,4 +1,4 @@
-#Mon Oct 02 13:32:10 MDT 2017
-base.0=/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
+#Mon Oct 02 15:18:17 MDT 2017
+base.0=/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
 renamed.0=classes.dex
-file.0=/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex
+file.0=/afs/ualberta.ca/home/e/s/eshna/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex
