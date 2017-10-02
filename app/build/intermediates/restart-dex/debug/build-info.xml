@@ -2,39 +2,88 @@
 <instant-run
     abi="x86"
     api-level="25"
-    build-mode="COLD"
+    build-mode="FULL"
     density="560dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1506971340484"
+    timestamp="1506972724554"
     token="383262682744455954"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="393" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="222" />
     <task
         name="verifier"
-        duration="0" />
+        duration="188" />
+
+    <artifact
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/outputs/apk/app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1506965374157"
+        timestamp="1506972724554"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
             location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
             location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
@@ -46,35 +95,11 @@
             location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
             location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
             location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
-    <build
-        build-mode="COLD"
-        timestamp="1506971317889"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1506971340484"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
