@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "outputFile": "/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/Users/eshna/.android/build-cache/cd9ed01247de5d22d6b0ac6116ca67a9d55daa88/output/res/values/values.xml",
+                    "file": "/cshome/eshna/.android/build-cache/ef514a8a361fad184291f761f1d4094d992ec2d6/output/res/values/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

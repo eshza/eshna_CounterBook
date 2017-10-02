@@ -3,11 +3,11 @@
     abi="x86"
     api-level="25"
     build-mode="FULL"
-    density="xhdpi"
+    density="560dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1506910848656"
-    token="-1925946699815150762"
+    timestamp="1506964784258"
+    token="383262682744455954"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
@@ -18,87 +18,87 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="245" />
     <task
         name="verifier"
-        duration="0" />
+        duration="136" />
 
     <artifact
-        location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/outputs/apk/app-debug.apk"
+        location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/outputs/apk/app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1506910848656"
+        timestamp="1506964784258"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/outputs/apk/app-debug.apk"
+            location="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 

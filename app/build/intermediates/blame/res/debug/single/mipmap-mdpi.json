@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
-        "source": "/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
-        "source": "/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
 ]

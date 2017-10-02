@@ -1,4 +1,4 @@
-#Fri Sep 29 22:03:48 MDT 2017
-base.0=/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+#Mon Oct 02 11:19:47 MDT 2017
+base.0=/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
 renamed.0=classes.dex
-file.0=/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex
+file.0=/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

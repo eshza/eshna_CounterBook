@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
-        "source": "/Users/eshna/.android/build-cache/2f9911f546e5fc703183eb3018c7a4372ae207c8/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+        "merged": "/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/cshome/eshna/.android/build-cache/a156b414d3f6d2b1166a11b918142e3831bce70e/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
-        "source": "/Users/eshna/.android/build-cache/2f9911f546e5fc703183eb3018c7a4372ae207c8/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+        "merged": "/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/cshome/eshna/.android/build-cache/a156b414d3f6d2b1166a11b918142e3831bce70e/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
     }
 ]

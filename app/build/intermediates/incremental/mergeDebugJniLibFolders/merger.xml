@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/src/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/src/debug/jniLibs"/></dataSet></merger>
