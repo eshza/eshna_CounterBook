@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6e06a43c5f9c1210a2a69cb61cdff301650c2993/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d2bf59d3b95afdc3ccbcd448d87239c00a87523a">
+        <dex dex="/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_93c2a7c9f71e26dd804c2a685d333a63de3c606c/classes.dex" />
+    </item>
+
+</items>
