@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/eshna/.android/build-cache/32a3e67180459cbc6f52befe7fc9b2d5072224f6/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/eshna/.android/build-cache/32a3e67180459cbc6f52befe7fc9b2d5072224f6/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/eshna/.android/build-cache/32a3e67180459cbc6f52befe7fc9b2d5072224f6/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/eshna/.android/build-cache/2f9911f546e5fc703183eb3018c7a4372ae207c8/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/eshna/.android/build-cache/32a3e67180459cbc6f52befe7fc9b2d5072224f6/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/eshna/.android/build-cache/32a3e67180459cbc6f52befe7fc9b2d5072224f6/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/eshna/.android/build-cache/2f9911f546e5fc703183eb3018c7a4372ae207c8/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/eshna/.android/build-cache/32a3e67180459cbc6f52befe7fc9b2d5072224f6/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/eshna/.android/build-cache/2f9911f546e5fc703183eb3018c7a4372ae207c8/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/eshna/.android/build-cache/2f9911f546e5fc703183eb3018c7a4372ae207c8/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/eshna/.android/build-cache/32a3e67180459cbc6f52befe7fc9b2d5072224f6/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/eshna/.android/build-cache/32a3e67180459cbc6f52befe7fc9b2d5072224f6/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/eshna/.android/build-cache/32a3e67180459cbc6f52befe7fc9b2d5072224f6/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/eshna/.android/build-cache/32a3e67180459cbc6f52befe7fc9b2d5072224f6/output/res/anim/abc_fade_in.xml"
+    }
+]

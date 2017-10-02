@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/edit_id"
+        android:icon="@android:color/holo_orange_light"
+        android:iconTint="@android:color/holo_orange_light"
+        android:title="@string/edit_counter" />
+
+    <item
+        android:id="@+id/delete_id"
+        android:title="@string/delete_counter"
+
+        />
+
+
+
+</menu>

@@ -1,0 +1,7 @@
+#Fri Sep 29 23:16:58 MDT 2017
+base.0=/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_93c2a7c9f71e26dd804c2a685d333a63de3c606c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6e06a43c5f9c1210a2a69cb61cdff301650c2993/classes.dex
+base.1=/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6e06a43c5f9c1210a2a69cb61cdff301650c2993
+file.0=/Users/eshna/AndroidStudioProjects/eshna_CounterBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_93c2a7c9f71e26dd804c2a685d333a63de3c606c/classes.dex
