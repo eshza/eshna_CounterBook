@@ -1,3 +1,25 @@
+/*
+ *
+ * Class Name: ActivityCounter
+ *
+ * Version : Version 1.0
+ *
+ * Date: October 2, 2017
+ * Copyright 2017 Eshna Sengupta
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package com.example.eshna.eshna_CounterBook;
 
 import android.content.Context;
@@ -29,15 +51,32 @@ import java.io.OutputStreamWriter;
 import java.lang.reflect.Type;
 import java.util.ArrayList;
 
+/**
+ * Allows user to enter and edit details for a counter
+ *
+ * @author eshna
+ * @version 1.0
+ * @see MainActivity
+ * @see ViewCounterDetails
+ * @see CounterInfo
+ * @since 1.0
+ */
+
 public class ActivityCounter extends AppCompatActivity {
     private TextView counterText, dateText;
     private int counterValue;
     private EditText nameInput, initValue, currValue, commentInput;
     private CounterInfo counterInfo = null;
     private ArrayList<CounterInfo> counterInfoArrayList;
-    private int edit_mode  = 0; //
+    private int edit_mode  = 0;
     private int pos;
     private int oldCurrVal;
+
+    /**
+     * Called on activity creation
+     *
+     * @param savedInstanceState saves state of activity
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -53,16 +92,20 @@ public class ActivityCounter extends AppCompatActivity {
 
     }
 
+    /**
+     * called when activity starts up
+     */
+
     @Override
     protected void onStart() {
         super.onStart();
         Intent intent = getIntent();
         Bundle bundle = intent.getExtras();
-        edit_mode = 0;
+        edit_mode = 0; //not in edit mode, new counter is created
 
-        if(bundle != null)
+        if(bundle != null) //counter already exists and has some information
         {
-            edit_mode = 1;
+            edit_mode = 1; //edit mode turned on
 
             pos = bundle.getInt("current_pos");
             nameInput.setText(bundle.getString("name"));
@@ -77,7 +120,7 @@ public class ActivityCounter extends AppCompatActivity {
 
             commentInput.setText(bundle.getString("comment"));
         }
-
+        //current value takes value of initial value
         initValue.addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
@@ -86,7 +129,7 @@ public class ActivityCounter extends AppCompatActivity {
 
             @Override
             public void onTextChanged(CharSequence charSequence, int i, int i1, int i2) {
-                if(edit_mode!= 1)
+                if(edit_mode!= 1)  //when new counter created
                 {
                     currValue.setText(initValue.getText().toString());
                     counterText.setText(initValue.getText().toString());
@@ -100,7 +143,7 @@ public class ActivityCounter extends AppCompatActivity {
 
             }
         });
-
+        //counter textbox takes the value of the current value
         currValue.addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
@@ -119,12 +162,14 @@ public class ActivityCounter extends AppCompatActivity {
         });
     }
 
-    //setting text change listeners for current value, Initial value, and counter text display
-
-
+    /**
+     * Increments the current value when plus button is clicked.
+     *
+     * @param view the view that was clicked
+     */
     public void plusButtonClicked(View view)
     {
-        if(!TextUtils.isEmpty(counterText.getText().toString()))
+        if(!TextUtils.isEmpty(counterText.getText().toString())) //textbox must have value
         {
             counterValue = Integer.parseInt(counterText.getText().toString());
             counterValue++;
@@ -135,19 +180,29 @@ public class ActivityCounter extends AppCompatActivity {
 
     }
 
+    /**
+     * Decrements the current value when minus button is clicked.
+     * @param view the view that was clicked
+     */
+
     public void minusButtonClicked(View view)
     {
         if(!TextUtils.isEmpty(counterText.getText().toString()))
         {
             counterValue = Integer.parseInt(counterText.getText().toString());
             counterValue--;
-            if(counterValue >= 0 ) {
+            if(counterValue >= 0 ) {    //cannot decrement below 0
                 counterText.setText(String.valueOf(counterValue));
                 currValue.setText(String.valueOf(counterValue));
             }
         }
 
     }
+
+    /**
+     * Resets the current value to initial value when plus button is clicked
+     * @param view the view that was clicked
+     */
     public void resetButtonClicked(View view)
     {
         if(!TextUtils.isEmpty(counterText.getText().toString()))
@@ -157,6 +212,12 @@ public class ActivityCounter extends AppCompatActivity {
             currValue.setText(String.valueOf(counterValue));
         }
     }
+
+    /**
+     * called when user clicks the submit button
+     * @param view the view that was clicked
+     * @throws InputNumberException when number entered is negative
+     */
 
     public void onSubmit(View view) throws InputNumberException {
         try {
@@ -171,9 +232,9 @@ public class ActivityCounter extends AppCompatActivity {
 
             }
             else if (!TextUtils.isEmpty(currValue.getText().toString()) && Integer.parseInt(currValue.getText().toString()) < 0)
-                Toast.makeText(context, "Invalid input for initial/current value", Toast.LENGTH_LONG).show();
+                Toast.makeText(context, "Invalid input for current value", Toast.LENGTH_LONG).show();
             else if (Integer.parseInt(initial) < 0 )
-                Toast.makeText(context, "Invalid input for initial/current value", Toast.LENGTH_LONG).show();
+                Toast.makeText(context, "Invalid input for initial value", Toast.LENGTH_LONG).show();
 
             else
             {
@@ -214,9 +275,12 @@ public class ActivityCounter extends AppCompatActivity {
         }catch (InputNumberException e){
             e.printStackTrace();
         }
-        finish();
+        finish(); //exits out of activity
     }
 
+    /**
+     * saves information to file using gson
+     */
     private void saveInFile()
     {
         try
@@ -236,6 +300,10 @@ public class ActivityCounter extends AppCompatActivity {
             e.printStackTrace();
         }
     }
+
+    /**
+     * loads information from file using gson
+     */
     private void loadFromFile()
     {
         try{

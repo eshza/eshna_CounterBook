@@ -1,3 +1,25 @@
+/*
+ * Class Name: CounterInfo
+ *
+ * Version : Version 1.0
+ *
+ * Date: October 2, 2017
+ *
+ * Copyright 2017 Eshna Sengupta
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package com.example.eshna.eshna_CounterBook;
 
 
@@ -8,9 +30,16 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * Created by eshna on 9/25/17.
- * Assignment 1
+ *Represents a counter
+ *
+ * @author eshna
+ * @version 1.0
+ * @see ActivityCounter
+ * @see MainActivity
+ * @see ViewCounterDetails
+ * @since 1.0
  */
+
 
 public class CounterInfo
 {
@@ -20,7 +49,10 @@ public class CounterInfo
     private Integer initial;
     private String comment;
 
-    //constructor
+    /**
+     * Constructs a counter object
+     * @param name name of the counter
+     */
     public CounterInfo(String name)
     {
         this.name = name;
@@ -89,6 +121,10 @@ public class CounterInfo
         this.comment = comment;
     }
 
+    /**
+     *
+     * @return outStr: String with information about the counter
+     */
     @Override
     public String toString(){
         String outStr = "Name: "+this.name;
@@ -100,7 +136,11 @@ public class CounterInfo
         return outStr;
     }
 
-
+    /**
+     * puts information in a bundle
+     *
+     * @return bundle object
+     */
     public Bundle sendBundle ()
     {
         Bundle bundle = new Bundle();

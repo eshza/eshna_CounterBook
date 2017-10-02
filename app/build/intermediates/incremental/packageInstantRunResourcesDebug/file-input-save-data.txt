@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Oct 02 11:19:45 MDT 2017
+#Mon Oct 02 11:29:36 MDT 2017
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=/cshome/eshna/Documents/cmput301/eshna_CounterBook/app/build/intermediates/res/resources-debug.ap_/res/anim/abc_fade_out.xml

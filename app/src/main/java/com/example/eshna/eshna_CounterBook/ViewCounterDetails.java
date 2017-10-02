@@ -1,19 +1,54 @@
+/*
+ * Class Name: ViewCounterDetails
+ *
+ * Version : Version 1.0
+ *
+ * Date: October 2, 2017
+ *
+ * Copyright 2017 Eshna Sengupta
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package com.example.eshna.eshna_CounterBook;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
-
-
 /**
- * Created by eshna on 9/25/17.
+ * Displays details of a counter
+ *
+ * @author eshna
+ * @version 1.0
+ * @see ActivityCounter
+ * @see MainActivity
+ * @see CounterInfo
+ * @since 1.0
  */
+
+
+
 
 public class ViewCounterDetails extends AppCompatActivity
 {
     private TextView nameDisplay,dateDisplay, initialDisplay, currentDisplay,commentDisplay;
 
+    /**
+     * method is called on activity creation
+     *
+     * @param savedInstanceState saves state of application
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -26,6 +61,9 @@ public class ViewCounterDetails extends AppCompatActivity
         commentDisplay = (TextView) findViewById(R.id.comment_display);
     }
 
+    /**
+     * called when the activity starts
+     */
     @Override
     protected void onStart() {
         super.onStart();
@@ -33,7 +71,7 @@ public class ViewCounterDetails extends AppCompatActivity
         Intent intent = getIntent();
         Bundle bundle = intent.getExtras();
 
-        if(bundle!= null)
+        if(bundle!= null) //counter already exists and has info
         {
             nameDisplay.setText(bundle.getString("name"));
             dateDisplay.setText(bundle.getString("current_date"));
